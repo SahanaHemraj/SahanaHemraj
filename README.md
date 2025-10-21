@@ -24,7 +24,7 @@ Every bug fixed and every system scaled feels like solving a puzzle that moves t
 
 Here’s a glimpse of the tools and technologies I enjoy working with:
 
-- **Languages:** Python · Java · C++ · Kotlin · Swift · JavaScript  
+- **Languages:** Python · Java · C++ · Kotlin · Swift · JavaScript  · Golang 
 - **Frameworks & Libraries:** Node.js (Express) · TensorFlow · Scikit-Learn · Spark  
 - **Cloud & DevOps:** AWS · Docker · Kubernetes · Azure · GitHub Actions · Jenkins  
 - **Databases:** PostgreSQL · MySQL · MongoDB  
