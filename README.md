@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sahana Hemraj!
+# Hi there, I'm Sahana Hemraj!
 
 Welcome to my GitHub space! I’m a **Software Engineer** passionate about building systems that are efficient, scalable, and intelligent.  
 My work spans across backend development, distributed architectures, and cloud-based AI solutions — combining engineering precision with creativity.  
@@ -9,7 +9,7 @@ My work spans across backend development, distributed architectures, and cloud-b
 
 ---
 
-## 💡 What Keeps Me Going
+##  What Keeps Me Going
 
 I’m fascinated by how code can transform ideas into impactful solutions.  
 Whether I’m optimizing large datasets, improving connectivity across devices, or fine-tuning performance on cloud systems —  
@@ -20,7 +20,7 @@ Every bug fixed and every system scaled feels like solving a puzzle that moves t
 
 ---
 
-## 🧰 My Tech Stack
+##  My Tech Stack
 
 Here’s a glimpse of the tools and technologies I enjoy working with:
 
@@ -33,23 +33,23 @@ Here’s a glimpse of the tools and technologies I enjoy working with:
 
 ---
 
-## 🧩 Projects I’ve Worked On
+##  Projects I’ve Worked On
 
-### 🧠 **Dynamic Price Optimizer**
+###  **Dynamic Price Optimizer**
 Built a machine learning–based pricing model using Python, Scikit-Learn, and AWS Lambda.  
 It simulated real-world retail scenarios for 50+ businesses, helping optimize revenue by **20%** while maintaining high user satisfaction.
 
-### 🛒 **E-Commerce Backend API**
+###  **E-Commerce Backend API**
 Developed a robust RESTful API with Golang, Gin, and PostgreSQL for seamless CRUD operations and automated CI/CD pipelines.  
 Containerized the system with Docker to enable scalability and easy deployment.
 
-### 📲 **Cross-Platform Social App**
+###  **Cross-Platform Social App**
 Created a BLE-powered mobile app using Kotlin and Swift with a secure Firebase backend.  
 Implemented GitHub Actions for continuous integration and achieved **zero-downtime** deployments.
 
 ---
 
-## 🌱 What I’m Exploring
+##  What I’m Exploring
 
 I’m currently exploring how **AI models and cloud scalability** can work together to build adaptive, real-time systems.  
 I’m also diving deeper into **self-healing microservices**, cloud observability, and distributed data pipelines.
@@ -58,7 +58,7 @@ Always open to new ideas, collaborations, and learning from passionate engineers
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 
 If you’re interested in discussing tech, sharing ideas, or collaborating on projects — I’d love to connect!
 
