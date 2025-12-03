@@ -62,9 +62,10 @@ Always open to new ideas, collaborations, and learning from passionate engineers
 
 If you’re interested in discussing tech, sharing ideas, or collaborating on projects — I’d love to connect!
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
-- 📫 **Email:** sahanasahanah812@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/sahana-h-b46a86377](https://www.linkedin.com/in/sahana-h-b46a86377/)
+- 📫 **Email:** sahanasahanah812@gmail.com
 - 🧑‍💻 **GitHub:** [github.com/SahanaHemraj](https://github.com/SahanaHemraj)
+
 
 ---
 
