@@ -1,79 +1,161 @@
-# Hi there, I'm Sahana Hemraj!
- 
-Welcome to my GitHub space! I’m a **Software Engineer** passionate about building systems that are efficient, scalable, and intelligent.
-My work spans backend development, cloud and DevOps engineering, distributed architectures, and cloud-based AI solutions — combining engineering precision with creativity.
+# Hi there, I'm Sahana Hemraj! 👋
 
-- **Currently:** Engineering backend systems and cloud/DevOps infrastructure @ Bright Mind Enrichment & Schooling (Remote, USA)
-- **Passion:** Turning complex data and system problems into clean, automated solutions  
-- **Fun Fact:** My debugging speed often beats my coffee-brewing time ☕  
+Welcome to my GitHub!
 
----
+I'm a **DevOps Engineer** passionate about building reliable cloud infrastructure, automating deployments, and improving the way software is delivered. I enjoy solving infrastructure challenges, optimizing cloud environments, and creating automation that helps teams ship software faster and more confidently.
 
-##  What Keeps Me Going
-
-I’m fascinated by how code can transform ideas into scalable, real-world solutions. Whether I’m optimizing backend services, automating CI/CD pipelines, or improving reliability across distributed cloud systems,
-I enjoy tackling challenges that sit at the intersection of software engineering, cloud infrastructure, and DevOps.
-
-I believe in building systems that are not only functional, but also scalable, resilient, and easy to maintain.
-Every deployment automated and every system optimized feels like solving a puzzle that helps teams move faster and build better software.
+* 🚀 **Currently:** DevOps Engineer @ **Synegen Inc.** (Remote, USA)
+* ☁️ **Focus:** AWS Cloud • Infrastructure Automation • CI/CD • Linux • DevOps
+* 💡 **Passion:** Building scalable, secure, and highly available cloud solutions
+* ☕ **Fun Fact:** I usually automate repetitive tasks before I get tired of doing them.
 
 ---
 
-##  My Tech Stack
+# What Drives Me
 
-Here’s a glimpse of the tools and technologies I enjoy working with:
+I enjoy working where software meets infrastructure.
 
-- **Languages:** Python · Java · C++ · Kotlin · Swift · JavaScript  · Golang  · Bash
-- **Frameworks & Libraries:** Node.js (Express) · TensorFlow · Scikit-Learn · Spark  
-- **Cloud & DevOps:** Docker · Kubernetes · AWS · Azure · GitHub Actions · Jenkins (CI/CD) · Terraform · Ansible · Prometheus · Grafana · Linux
-- **Databases:** PostgreSQL · MySQL · MongoDB  
-- **Development Practices:** Agile · TDD · CI/CD · Code Reviews · Git 
-- **Specialties:** System Optimization · API Design · Cloud-Native Development  
+Whether I'm deploying applications to AWS, automating infrastructure with Terraform, troubleshooting production environments, building CI/CD workflows, or improving system reliability, I love turning manual processes into automated and repeatable solutions.
 
----
+For me, DevOps is about much more than deployments—it's about enabling developers, improving reliability, reducing downtime, and making systems easier to operate and maintain.
 
-##  Projects I’ve Worked On
-
-### **Vehicle Parking System**
-Developed a RESTful parking management API using Python and FastAPI, implementing a First-Fit slot allocation algorithm for efficient vehicle allocation.
-Containerized the application with Docker and orchestrated deployments using Kubernetes, with automated CI/CD pipelines to ensure scalability, reliability, and smooth deployments.
-
-###  **Dynamic Price Optimizer**
-Built a machine learning–based pricing model using Python, Scikit-Learn, and AWS Lambda.  
-It simulated real-world retail scenarios for 50+ businesses, helping optimize revenue by **20%** while maintaining high user satisfaction.
-
-###  **E-Commerce Backend API**
-Developed a robust RESTful API with Golang, Gin, and PostgreSQL for seamless CRUD operations and automated CI/CD pipelines.  
-Containerized the system with Docker to enable scalability and easy deployment.
-
-###  **Cross-Platform Mobile App**
-Developed cross-platform mobile applications using Swift and Kotlin with a secure Firebase Firestore backend to support scalable user workflows.
-Applied DevOps practices using Docker, Kubernetes, and GitHub Actions to automate CI/CD pipelines, enabling zero-downtime deployments and improved system reliability.
+I'm always looking for opportunities to simplify complex infrastructure while following best practices for security, scalability, and automation.
 
 ---
 
-##  What I’m Exploring
+# Tech Stack
 
-I’m currently exploring how **AI models and cloud scalability** can work together to build adaptive, real-time systems.  
-I’m also diving deeper into **self-healing microservices**, cloud observability, and distributed data pipelines.
+## Cloud
 
-Always open to new ideas, collaborations, and learning from passionate engineers. 🚀
+* AWS (EC2, IAM, S3, ACM, Route53, CloudWatch, VPC, Auto Scaling, Load Balancers, Systems Manager)
+
+## DevOps & Infrastructure
+
+* Docker
+* Kubernetes
+* Terraform
+* GitHub Actions
+* Jenkins
+* Linux
+* Bash
+* Ansible
+
+## Programming
+
+* Python
+* Java
+* Golang
+* JavaScript
+* C++
+* Kotlin
+* Swift
+
+## Databases
+
+* PostgreSQL
+* MySQL
+* MongoDB
+
+## Monitoring & Observability
+
+* Prometheus
+* Grafana
+* CloudWatch
+
+## Development Practices
+
+* CI/CD
+* Infrastructure as Code (IaC)
+* Agile
+* Git
+* Code Reviews
+* Automation
+* Troubleshooting
 
 ---
 
-##  Let’s Connect
+# What I'm Working On
 
-If you’re interested in discussing tech, sharing ideas, or collaborating on projects — I’d love to connect!
+At Synegen, I work on cloud infrastructure and DevOps initiatives across multiple AWS environments.
 
-- 💼 **LinkedIn:** [linkedin.com/in/sahana-h-b46a86377](https://www.linkedin.com/in/sahana-h-b46a86377/)
-- 📫 **Email:** sahanasahanah812@gmail.com
-- 🧑‍💻 **GitHub:** [github.com/SahanaHemraj](https://github.com/SahanaHemraj)
+Some of the work I regularly contribute to includes:
 
+* Designing and maintaining CI/CD pipelines using GitHub Actions
+* Automating infrastructure deployments with Terraform
+* Managing AWS infrastructure across development, staging, and production environments
+* Troubleshooting production issues involving networking, DNS, SSL certificates, and Linux servers
+* Managing EC2 instances, Load Balancers, Auto Scaling Groups, IAM, and Systems Manager
+* Supporting application deployments and rollback strategies
+* Optimizing AWS resources and cloud costs
+* Improving deployment reliability through automation and standardized workflows
+* Working closely with developers to streamline release processes
 
 ---
 
-## 💬 Words I Live By
+# Featured Projects
 
-> Consistency is the path, hard work is the engine, and loyalty is the fuel that drives long-term trust.
+## AWS Infrastructure Automation
 
-Thanks for visiting my profile! Let’s keep building technology that matters — one thoughtful line of code at a time. 😊
+Designed and maintained Infrastructure as Code using Terraform to provision and manage cloud resources consistently across multiple AWS environments.
+
+---
+
+## CI/CD Workflow Standardization
+
+Built and standardized GitHub Actions deployment workflows, reducing manual deployment effort while improving consistency, rollback support, and deployment reliability across multiple applications.
+
+---
+
+## Cloud Cost Optimization
+
+Performed AWS infrastructure audits to identify underutilized resources, unattached storage volumes, and optimization opportunities, helping reduce unnecessary cloud spending while maintaining operational reliability.
+
+---
+
+## Production Infrastructure Operations
+
+Supported production environments by troubleshooting deployment issues, SSL certificate renewals, networking problems, DNS configuration, Linux administration, and AWS infrastructure management.
+
+---
+
+# Currently Exploring
+
+I'm continuously learning and expanding my knowledge in:
+
+* Kubernetes at scale
+* Advanced Terraform design patterns
+* GitHub Actions automation
+* AWS architecture and networking
+* Observability and monitoring
+* Platform Engineering
+* Self-healing infrastructure
+* AI-powered DevOps and cloud automation
+
+---
+
+# Let's Connect
+
+I'm always happy to connect with fellow engineers, collaborate on interesting projects, or discuss cloud, DevOps, and automation.
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/sahana-h-b46a86377/
+
+📫 **Email**
+[sahanasahanah812@gmail.com](mailto:sahanasahanah812@gmail.com)
+
+🧑‍💻 **GitHub**
+https://github.com/SahanaHemraj
+
+---
+
+# Quote I Live By
+
+> "Consistency builds excellence, automation creates freedom, and continuous learning drives innovation."
+
+---
+
+Thanks for stopping by!
+
+Feel free to explore my repositories, and don't hesitate to connect if you'd like to collaborate or talk about cloud, DevOps, or software engineering.
+
+Happy coding! 🚀
