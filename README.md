@@ -46,9 +46,6 @@ I'm always looking for opportunities to simplify complex infrastructure while fo
 * Java
 * Golang
 * JavaScript
-* C++
-* Kotlin
-* Swift
 
 ## Databases
 
