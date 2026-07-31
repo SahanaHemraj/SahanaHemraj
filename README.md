@@ -4,7 +4,7 @@ Welcome to my GitHub!
 
 I'm a **DevOps Engineer** passionate about building reliable cloud infrastructure, automating deployments, and improving the way software is delivered. I enjoy solving infrastructure challenges, optimizing cloud environments, and creating automation that helps teams ship software faster and more confidently.
 
-* 🚀 **Currently:** DevOps Engineer @ **Synegen Inc.** (Remote, USA)
+* 🚀 **Currently:** DevOps Engineer @ **Synegen Inc.** (Chicago, IL)
 * ☁️ **Focus:** AWS Cloud • Infrastructure Automation • CI/CD • Linux • DevOps
 * 💡 **Passion:** Building scalable, secure, and highly available cloud solutions
 * ☕ **Fun Fact:** I usually automate repetitive tasks before I get tired of doing them.
